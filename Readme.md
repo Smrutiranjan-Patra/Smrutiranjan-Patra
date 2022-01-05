@@ -1,5 +1,3 @@
-<h2  align="center">A curious, enthusiastic and passionate MREN stack developer </h2>
-
 Hi there 👋
 - 🌱 I’m currently learning MERN stack at Masai School, Bengaluru, Karnataka
 
