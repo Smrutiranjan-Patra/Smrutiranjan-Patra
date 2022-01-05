@@ -1,4 +1,4 @@
-<h2  align="center">A curious, enthusiastic and passionate full stack web developer from India</h2>
+<h2  align="center">A curious, enthusiastic and passionate full stack web developer </h2>
 
 - 👯 I’m looking to collaborate on **applications from where I get to learn cool stuffs**
 
