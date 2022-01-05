@@ -1,7 +1,7 @@
 Hi there 👋
 - 🌱 I’m currently learning MERN stack at Masai School, Bengaluru, Karnataka
 
-- 🛠️ Skill Set: Algorithms, Data Structures, Rest API, Databases
+- 🛠️ Skill Set: Data Structures, Rest API, Databases and Fronted Designing
 
 - ⌨️ Programming: HTML, CSS, JavaScript, React, Mongoose
 
