@@ -2,11 +2,11 @@
 
 - 👯 I’m looking to collaborate on **applications from where I get to learn cool stuffs**
 
-- 👨‍💻 Wanna take a look at my portfolio [https://gurunath-sahukar.web.app/](https://gurunath-sahukar.web.app/)
+- 👨‍💻 Wanna take a look at my portfolio
 
-- 📝 Wanna read my blogs [https://asguru.hashnode.dev/](https://asguru.hashnode.dev/)
+- 📝 Wanna read my blogs [https://medium.com/@guessme.smruti](https://medium.com/@guessme.smruti)
 
-- 📫 Mail me at **abhimanyu768692@gmail.com**
+- 📫 Mail me at **guessme.smruti@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,15 +24,10 @@
 <p align="left">  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   <img src="https://user-images.githubusercontent.com/77038661/126056535-6d1b0c69-1d2c-451b-a27b-23de59d01ccb.png" alt="redux" width="40" height="40" />
-  <img src="https://user-images.githubusercontent.com/77038661/126056707-52022a28-3b39-4512-9098-128bfcd2af26.png" alt="material" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
   <img src="https://user-images.githubusercontent.com/77038661/126056749-1b8695e2-53f8-4072-baaf-b9aeb5628c4e.png" alt="npm" width="40" height="40" />
   <img src="https://user-images.githubusercontent.com/77038661/126057456-dd7b1466-9ecb-4a51-b1ae-698300863f8c.png" alt="nodejs" width="60" height="40" />
   <img src="https://user-images.githubusercontent.com/77038661/126057320-5a351c96-ae79-425b-9237-a1026c8c1440.png" alt="mongoose" width="60" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
 </p>
 
 <h3 align="left">Git-Hub stats and achievements: </h3>
