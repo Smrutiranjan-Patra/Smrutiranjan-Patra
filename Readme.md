@@ -1,12 +1,19 @@
-<h2  align="center">A curious, enthusiastic and passionate full stack web developer </h2>
+<h2  align="center">A curious, enthusiastic and passionate MREN stack developer </h2>
 
-- 👯 I’m looking to collaborate on **applications from where I get to learn cool stuffs**
+Hi there 👋
+- 🌱 I’m currently learning MERN stack at Masai School, Bengaluru, Karnataka
 
-- 👨‍💻 Wanna take a look at my portfolio
+- 🛠️ Skill Set: Algorithms, Data Structures, Rest API, Databases
 
-- 📝 Wanna read my blogs [https://medium.com/@guessme.smruti](https://medium.com/@guessme.smruti)
+- ⌨️ Programming: HTML, CSS, JavaScript, React, Mongoose
 
-- 📫 Mail me at **guessme.smruti@gmail.com**
+- 🖥️ Platforms: Windows, Linux
+
+- 🎧 When am not coding you can find me watching movies, listening to music, or Travelling to a new place. My favorite place is Ladakh.
+
+- 📫 I can be reached at and on Twitter @Smrutir04608196
+
+- 😎 Have a look at my Portfolio
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
