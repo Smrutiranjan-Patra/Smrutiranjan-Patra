@@ -9,7 +9,7 @@ Hi there 👋
 
 - 🎧 When am not coding you can find me watching movies, listening to music, or Travelling to a new place. My favorite place is Ladakh.
 
-- 📫 I can be reached at and on Twitter <a href="https://twitter.com/Smrutir04608196" traget='_blank'></a>
+- 📫 I can be reached at and on <a href="https://twitter.com/Smrutir04608196" traget='_blank'>Twitter</a>
 - 😎 Have a look at my <a href="https://portfolio-srp.herokuapp.com/" target="_blank">Portfolio<a/>
 
 <h3 align="left">Connect with me:</h3>
