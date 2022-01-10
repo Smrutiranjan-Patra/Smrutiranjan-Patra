@@ -34,8 +34,7 @@ Hi there 👋
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
 </p>
 
-<h3 align="left">Git-Hub stats and achievements: </h3>
-<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=Smrutiranjan-Patra"><img src="https://github-profile-trophy.vercel.app/?username=Smrutiranjan-Patra" alt="Smrutiranjan-Patra" /></a> </p>
+
 
 <p ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Smrutiranjan-Patra&show_icons=true&locale=en&layout=compact" alt="Smrutiranjan-Patra" /></p>
 
