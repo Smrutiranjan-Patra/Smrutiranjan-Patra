@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://smrutiranjan.herokuapp.com/](https://smrutiranjan.herokuapp.com/)
+- 👨‍💻 All of my projects are available at [https://smrutiranjan.herokuapp.com/](https://smrutiranjan.vercel.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@guessme.smruti](https://medium.com/@guessme.smruti)
 
