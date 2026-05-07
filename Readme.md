@@ -117,13 +117,3 @@ Full Stack Developer (MERN) | Building scalable and clean web applications
 <td></td>
 </tr>
 </table>
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=smrutiranjan-patra&show_icons=true&locale=en" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=smrutiranjan-patra&show_icons=true&locale=en&layout=compact" />
-</p>
