@@ -19,7 +19,7 @@ Full Stack Developer (MERN) | Building scalable and clean web applications
 ### 🚀 About Me
 
 - 🌱 Currently learning **Advanced MERN Stack & System Design**
-- 👨‍💻 Portfolio: **https://smrutiranjan.vercel.app/**
+- 👨‍💻 Portfolio: **https://portfolio-smrutiranjan.netlify.app/**
 - 📝 I write articles on **https://medium.com/@guessme.smruti**
 - 💬 Ask me about **React, JavaScript, and Full Stack Development**
 - 📫 Reach me at **guessme.smruti@gmail.com**
